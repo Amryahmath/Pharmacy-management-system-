@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+     "local_server": "True",
+      "local_uri": "mysql://root:@localhost/medical",
+      "proud_uri": "mysql://root:@localhost/medical",
+      "inst_url":"https://www.instagram.com/p/DC4mNWtT-a0/?utm_source=ig_web_copy_link",
+      "LI_url":"www.linkedin.com/in/amry-ahmath",
+      "gh_url":"https://github.com/Amryahmath",
+      "blog_name": "WELCOME",
+      "headname": "PHARMACY MANAGEMENT",
+      "user": "test",
+      "password": "test",
+      "login_image": "aple.jpg"
+  
+    }
+  }
